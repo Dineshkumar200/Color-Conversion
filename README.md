@@ -24,6 +24,7 @@ To Split and merge HSV Image
 ```python
 # Developed By: Dineshkumar V
 # Register Number: 212220230013
+
 # i) Convert BGR and RGB to HSV and GRAY
 import cv2
 img = cv2.imread('jk.jpg')
@@ -97,17 +98,23 @@ cv2.waitKey(0)
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 
+![e1](https://user-images.githubusercontent.com/75235789/162785803-3e644961-bed8-41c1-87da-775a5269b94a.jpg)
 
 ### ii) HSV to RGB and BGR
 
+![e2](https://user-images.githubusercontent.com/75235789/162786267-2f866d43-97d6-4ede-af4a-7630d896ca3c.jpg)
 
 ### iii) RGB and BGR to YCrCb
+![e3](https://user-images.githubusercontent.com/75235789/162785899-31ba113f-b84e-4827-941b-9d6ce449341f.jpg)
 
 
 ### iv) Split and merge RGB Image
 
 
+![e4](https://user-images.githubusercontent.com/75235789/162785920-0adeb6be-37fb-4fa2-894d-8d37bcf57cca.jpg)
+
 ### v) Split and merge HSV Image
+![e5](https://user-images.githubusercontent.com/75235789/162785930-8afcbaa8-b40d-476e-a245-a49ed439e685.jpg)
 
 
 
