@@ -100,7 +100,7 @@ cv2.waitKey(0)
 
 ![e1](https://user-images.githubusercontent.com/75235789/162785803-3e644961-bed8-41c1-87da-775a5269b94a.jpg)
 
-### ii) HSV to RGB and BGR
+### <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>ii) HSV to RGB and BGR
 
 ![e2](https://user-images.githubusercontent.com/75235789/162786267-2f866d43-97d6-4ede-af4a-7630d896ca3c.jpg)
 
@@ -108,7 +108,7 @@ cv2.waitKey(0)
 ![e3](https://user-images.githubusercontent.com/75235789/162785899-31ba113f-b84e-4827-941b-9d6ce449341f.jpg)
 
 
-### iv) Split and merge RGB Image
+### <br/><br/><br/><br/><br/><br/>iv) Split and merge RGB Image
 
 
 ![e4](https://user-images.githubusercontent.com/75235789/162785920-0adeb6be-37fb-4fa2-894d-8d37bcf57cca.jpg)
